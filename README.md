@@ -3,7 +3,7 @@ Proje dizininde şunları çalıştırabilirsiniz:
 
 ### `npm start` ile Frontend kısmını 
 
-### `cd server` ve `node server.js` kısmını
+### `cd server` ardından `node server.js` ile Backend kısmını
 
 ### Çalıştırabilirsiniz
 
