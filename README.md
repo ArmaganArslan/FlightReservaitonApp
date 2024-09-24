@@ -7,7 +7,7 @@ Proje dizininde şunları çalıştırabilirsiniz:
 
 ### Çalıştırabilirsiniz
 
-Uçuşlar Gidiş ve Dönüş olarak ve Tarih olarak filtrelenebilmektedir.
+Uçuşlar Gidiş ve Dönüş olarak ve Tarih olarak filtrelenebilmektedir. Rezervasyonlar Lokal olarak MongoDB'ye kaydedilmektedir.
 
 ![image](https://github.com/user-attachments/assets/86a18726-fcda-4cf8-abfc-610a85e17488)
 
